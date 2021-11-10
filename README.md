@@ -1,0 +1,2 @@
+# Whatsapp-Chatbot
+This program is about sending automatic messages to the user. The sender asks his questions to chatbot,the bot analyse the question and sends the answer. In case if answer is not found by the bot,it searches in Google and sends the accurate link which matches the question. Not only the the answer it sends,it also song link, app link etc. The program works only when it is active. To work with this program all you need to do is install all the required modules ,run the program and ope What'sapp desktop application.
